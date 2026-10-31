@@ -1,4 +1,4 @@
-# Part 2 of research/formatting-27b/PLAN.md: each item's canonical-prompt label margin, from top-20 first-token logprobs.
+# Part 2 of PLAN.md: each item's canonical-prompt label margin, from top-20 first-token logprobs.
 import json, math, sys, time, urllib.request
 PROMPTS, OUT, MODEL = sys.argv[1], sys.argv[2], sys.argv[3]
 items = {json.loads(l)["item_id"] for l in open(sys.argv[4])}
