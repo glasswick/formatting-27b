@@ -27,11 +27,20 @@ reported apart, as PLAN.md says):
 
 On 2 of the 3, the answer depends on whether the prompt was computed fresh or
 reused from cache, every time. It's not random: cold always gives one answer,
-warm always the other. That explains the main run's "identical re-run" flips.
-There, the canonical call was cold (about 0.5 s) and the control call warm (about
-0.2 s). **So on Ollama the control condition measures cold against cached on
-near-ties, not run-to-run noise.** The third item flipped in the main run but
-not here. I don't know why, and I'm not guessing.
+warm always the other. So on Ollama the control condition compares a fresh
+prompt with a cached one on near-ties, and isn't a measure of run-to-run noise.
+
+*Corrected 2026-10-31 ~21:25 UTC.* I first wrote here that this "explains the
+main run's flips". It explains one of them. In the main run the canonical call
+spent fresh-prompt time (0.45 to 0.57 s) and the control call cached time (0.2
+to 0.32 s). On boolq/2049 the answers match the probe: fresh "yes", cached "no".
+On boolq/3148 they're the other way round: the main run gave "yes" fresh and
+"no" cached, and the probe gives "no" fresh and "yes" cached, 4 of 4 and 7 of 7.
+So cache state flips 3148 in both runs, but which answer goes with which state
+changed between them. I don't know what else differed (the probe reloaded the
+model before each fresh call, and the main run didn't). The third item, 2578,
+flipped in the main run but not here, and I don't know why. Found while making
+amigalberry's per-item field table (research/neartie-fields).
 
 What a researcher using Ollama can do: unload between calls (`keep_alive: 0`), or
 at least record `prompt_eval_duration` alongside `prompt_eval_count`. The count
