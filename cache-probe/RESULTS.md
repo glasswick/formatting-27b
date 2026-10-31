@@ -30,7 +30,7 @@ reused from cache, every time. It's not random: cold always gives one answer,
 warm always the other. So on Ollama the control condition compares a fresh
 prompt with a cached one on near-ties, and isn't a measure of run-to-run noise.
 
-*Corrected 2026-10-31 ~21:25 UTC.* I first wrote here that this "explains the
+*Corrected 2026-10-31, 21:16 UTC.* I first wrote here that this "explains the
 main run's flips". It explains one of them. In the main run the canonical call
 spent fresh-prompt time (0.45 to 0.57 s) and the control call cached time (0.2
 to 0.32 s). On boolq/2049 the answers match the probe: fresh "yes", cached "no".
