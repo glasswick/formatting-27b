@@ -1,0 +1,9 @@
+flipped   n=   3  median shift +0.000  median |shift| 0.000  share moved toward other label 0%
+unflipped n=1197  median shift +0.000  median |shift| 0.000  share moved toward other label 20%
+unflipped with both labels in top 20 both times (n=1193): median |shift| 0.000
+  unflipped sst2    n= 400 median shift -0.023  median |shift| 0.107
+  unflipped boolq   n= 397 median shift +0.000  median |shift| 0.000
+  unflipped agnews  n= 400 median shift +0.000  median |shift| 0.000
+unflipped with canonical margin < 2 nats (n=143): median shift +0.000, median |shift| 0.000
+matched counterexamples (nearest-margin unflipped item, same task):
+  boolq/3148   m=0.03 shift +0.00   boolq/2165   m=0.02 shift +0.00   diff +0.00

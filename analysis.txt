@@ -1,0 +1,11 @@
+items 1200, calls 9600, unparsed 0
+control         n= 1200 flips=  3 rate=0.0025 [0.0009, 0.0073]
+trailing_space  n= 1200 flips=  8 rate=0.0067 [0.0034, 0.0131]
+crlf            n= 1200 flips=  4 rate=0.0033 [0.0013, 0.0085]
+double_space    n= 1200 flips= 22 rate=0.0183 [0.0121, 0.0276]
+nbsp            n= 1200 flips= 29 rate=0.0242 [0.0169, 0.0345]
+punct_all       n= 1200 flips= 11 rate=0.0092 [0.0051, 0.0163]
+curly_quotes    n= 1200 flips=  8 rate=0.0067 [0.0034, 0.0131]
+control      3/1200 = 0.0025 [0.0009, 0.0073]
+whitespace   63/4800 = 0.0131 [0.0103, 0.0168]
+punctuation  19/2400 = 0.0079 [0.0051, 0.0123]

@@ -1,0 +1,253 @@
+{"pid": "sst2/347|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 1451, "prompt_ms": 326, "s": 1.96}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 1586, "prompt_ms": 327, "s": 2.1}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 1371, "prompt_ms": 320, "s": 1.87}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "identical", "k": 0, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 1582, "prompt_ms": 320, "s": 2.08}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "identical", "k": 1, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 12, "prompt_ms": 69, "s": 0.26}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "identical", "k": 2, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 10, "prompt_ms": 67, "s": 0.27}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "identical", "k": 3, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.26}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "identical", "k": 4, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 11, "prompt_ms": 68, "s": 0.26}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 9, "prompt_ms": 66, "s": 0.26}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 10, "prompt_ms": 67, "s": 0.25}
+{"pid": "sst2/347|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "negative", "prompt_eval_count": 67, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.25}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 1489, "prompt_ms": 325, "s": 2.01}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 1485, "prompt_ms": 331, "s": 2.0}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 1576, "prompt_ms": 327, "s": 2.09}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "identical", "k": 0, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 1601, "prompt_ms": 328, "s": 2.11}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "identical", "k": 1, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 9, "prompt_ms": 68, "s": 0.26}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "identical", "k": 2, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.15}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "identical", "k": 3, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 3, "prompt_ms": 66, "s": 0.25}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "identical", "k": 4, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 10, "prompt_ms": 67, "s": 0.2}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 11, "prompt_ms": 66, "s": 0.26}
+{"pid": "agnews/226|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "World", "prompt_eval_count": 102, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 1489, "prompt_ms": 462, "s": 2.14}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 1285, "prompt_ms": 464, "s": 1.94}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 1483, "prompt_ms": 462, "s": 2.13}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "identical", "k": 0, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 1486, "prompt_ms": 462, "s": 2.14}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "identical", "k": 1, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 10, "prompt_ms": 72, "s": 0.26}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "identical", "k": 2, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.15}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "identical", "k": 3, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 3, "prompt_ms": 67, "s": 0.25}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "identical", "k": 4, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 9, "prompt_ms": 67, "s": 0.2}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 12, "prompt_ms": 67, "s": 0.26}
+{"pid": "boolq/2722|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "yes", "prompt_eval_count": 153, "eval_count": 1, "load_ms": 9, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 1499, "prompt_ms": 465, "s": 2.15}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 1390, "prompt_ms": 470, "s": 2.05}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 1500, "prompt_ms": 471, "s": 2.16}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "identical", "k": 0, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 1484, "prompt_ms": 467, "s": 2.14}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "identical", "k": 1, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 10, "prompt_ms": 70, "s": 0.26}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "identical", "k": 2, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 10, "prompt_ms": 67, "s": 0.27}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "identical", "k": 3, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 11, "prompt_ms": 66, "s": 0.26}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "identical", "k": 4, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.26}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 9, "prompt_ms": 67, "s": 0.27}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 10, "prompt_ms": 67, "s": 0.26}
+{"pid": "boolq/2405|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": " yes", "prompt_eval_count": 156, "eval_count": 1, "load_ms": 10, "prompt_ms": 67, "s": 0.26}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 1472, "prompt_ms": 602, "s": 2.27}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 1457, "prompt_ms": 600, "s": 2.25}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 1468, "prompt_ms": 603, "s": 2.26}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "identical", "k": 0, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 1684, "prompt_ms": 598, "s": 2.48}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "identical", "k": 1, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 10, "prompt_ms": 70, "s": 0.26}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "identical", "k": 2, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.26}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "identical", "k": 3, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.25}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "identical", "k": 4, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 10, "prompt_ms": 69, "s": 0.26}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 10, "prompt_ms": 70, "s": 0.27}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.25}
+{"pid": "boolq/917|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "no", "prompt_eval_count": 256, "eval_count": 1, "load_ms": 11, "prompt_ms": 67, "s": 0.26}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 1584, "prompt_ms": 335, "s": 2.1}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 1472, "prompt_ms": 330, "s": 1.99}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 1460, "prompt_ms": 330, "s": 1.97}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "identical", "k": 0, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 1459, "prompt_ms": 334, "s": 1.98}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "identical", "k": 1, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 10, "prompt_ms": 70, "s": 0.26}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "identical", "k": 2, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.15}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "identical", "k": 3, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 2, "prompt_ms": 67, "s": 0.25}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "identical", "k": 4, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 10, "prompt_ms": 68, "s": 0.21}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 13, "prompt_ms": 70, "s": 0.27}
+{"pid": "boolq/303|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "yes", "prompt_eval_count": 107, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 1378, "prompt_ms": 471, "s": 2.04}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 1475, "prompt_ms": 476, "s": 2.14}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 1587, "prompt_ms": 478, "s": 2.25}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "identical", "k": 0, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 1590, "prompt_ms": 471, "s": 2.25}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "identical", "k": 1, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 10, "prompt_ms": 71, "s": 0.26}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "identical", "k": 2, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.26}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "identical", "k": 3, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 11, "prompt_ms": 67, "s": 0.26}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "identical", "k": 4, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 11, "prompt_ms": 68, "s": 0.26}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 10, "prompt_ms": 68, "s": 0.27}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.25}
+{"pid": "boolq/75|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "yes", "prompt_eval_count": 190, "eval_count": 1, "load_ms": 11, "prompt_ms": 69, "s": 0.26}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 1488, "prompt_ms": 332, "s": 2.0}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 1380, "prompt_ms": 331, "s": 1.89}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 1588, "prompt_ms": 330, "s": 2.1}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "identical", "k": 0, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 1381, "prompt_ms": 330, "s": 1.89}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "identical", "k": 1, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 9, "prompt_ms": 68, "s": 0.26}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "identical", "k": 2, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.26}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "identical", "k": 3, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.26}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "identical", "k": 4, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 11, "prompt_ms": 69, "s": 0.26}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 10, "prompt_ms": 69, "s": 0.27}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "sst2/809|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "positive", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 1586, "prompt_ms": 328, "s": 2.1}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 1552, "prompt_ms": 332, "s": 2.07}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 1468, "prompt_ms": 329, "s": 1.98}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "identical", "k": 0, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 1472, "prompt_ms": 329, "s": 1.98}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "identical", "k": 1, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 9, "prompt_ms": 68, "s": 0.25}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "identical", "k": 2, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.15}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "identical", "k": 3, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 2, "prompt_ms": 66, "s": 0.24}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "identical", "k": 4, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.18}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 8, "prompt_ms": 61, "s": 0.19}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "agnews/1840|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "Business", "prompt_eval_count": 82, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.18}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 1484, "prompt_ms": 460, "s": 2.13}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 1462, "prompt_ms": 472, "s": 2.12}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 1578, "prompt_ms": 471, "s": 2.24}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "identical", "k": 0, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 1473, "prompt_ms": 471, "s": 2.13}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "identical", "k": 1, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 9, "prompt_ms": 66, "s": 0.25}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "identical", "k": 2, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.26}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "identical", "k": 3, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "identical", "k": 4, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 9, "prompt_ms": 66, "s": 0.26}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 9, "prompt_ms": 61, "s": 0.24}
+{"pid": "boolq/1465|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "yes", "prompt_eval_count": 187, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 1450, "prompt_ms": 319, "s": 1.95}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 1499, "prompt_ms": 324, "s": 2.0}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 1468, "prompt_ms": 322, "s": 1.97}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "identical", "k": 0, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 1461, "prompt_ms": 322, "s": 1.96}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "identical", "k": 1, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 10, "prompt_ms": 68, "s": 0.24}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "identical", "k": 2, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 9, "prompt_ms": 62, "s": 0.26}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "identical", "k": 3, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "identical", "k": 4, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 9, "prompt_ms": 65, "s": 0.26}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "sst2/175|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "positive", "prompt_eval_count": 66, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 1497, "prompt_ms": 336, "s": 2.01}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 1283, "prompt_ms": 332, "s": 1.8}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 1482, "prompt_ms": 333, "s": 2.0}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "identical", "k": 0, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 1498, "prompt_ms": 335, "s": 2.01}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "identical", "k": 1, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 9, "prompt_ms": 70, "s": 0.26}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "identical", "k": 2, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.15}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "identical", "k": 3, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 3, "prompt_ms": 68, "s": 0.25}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "identical", "k": 4, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 8, "prompt_ms": 62, "s": 0.19}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "agnews/7082|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "Business", "prompt_eval_count": 87, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.18}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 1480, "prompt_ms": 323, "s": 1.99}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 1583, "prompt_ms": 336, "s": 2.1}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 1451, "prompt_ms": 343, "s": 1.98}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "identical", "k": 0, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 1500, "prompt_ms": 340, "s": 2.02}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "identical", "k": 1, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 9, "prompt_ms": 67, "s": 0.25}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "identical", "k": 2, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 9, "prompt_ms": 66, "s": 0.15}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "identical", "k": 3, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 3, "prompt_ms": 68, "s": 0.25}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "identical", "k": 4, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 11, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 9, "prompt_ms": 66, "s": 0.2}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 11, "prompt_ms": 65, "s": 0.25}
+{"pid": "boolq/791|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "yes", "prompt_eval_count": 116, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 1577, "prompt_ms": 592, "s": 2.36}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 1483, "prompt_ms": 583, "s": 2.26}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 1466, "prompt_ms": 586, "s": 2.24}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "identical", "k": 0, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 1381, "prompt_ms": 587, "s": 2.16}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "identical", "k": 1, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 10, "prompt_ms": 70, "s": 0.26}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "identical", "k": 2, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.26}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "identical", "k": 3, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "identical", "k": 4, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 9, "prompt_ms": 66, "s": 0.26}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "boolq/962|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "no", "prompt_eval_count": 217, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.25}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 1467, "prompt_ms": 329, "s": 1.98}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 1471, "prompt_ms": 330, "s": 1.98}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 1466, "prompt_ms": 332, "s": 1.98}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "identical", "k": 0, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 1476, "prompt_ms": 330, "s": 1.99}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "identical", "k": 1, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 9, "prompt_ms": 69, "s": 0.25}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "identical", "k": 2, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.15}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "identical", "k": 3, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 2, "prompt_ms": 66, "s": 0.24}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "identical", "k": 4, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 9, "prompt_ms": 65, "s": 0.2}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 11, "prompt_ms": 66, "s": 0.25}
+{"pid": "agnews/3155|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "Business", "prompt_eval_count": 83, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.18}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 1391, "prompt_ms": 336, "s": 1.91}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 1387, "prompt_ms": 338, "s": 1.91}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 1491, "prompt_ms": 338, "s": 2.01}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "identical", "k": 0, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 1392, "prompt_ms": 337, "s": 1.91}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "identical", "k": 1, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 9, "prompt_ms": 69, "s": 0.25}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "identical", "k": 2, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.15}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "identical", "k": 3, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 3, "prompt_ms": 66, "s": 0.25}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "identical", "k": 4, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 9, "prompt_ms": 66, "s": 0.2}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 11, "prompt_ms": 65, "s": 0.25}
+{"pid": "agnews/3619|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "World", "prompt_eval_count": 94, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 1358, "prompt_ms": 321, "s": 1.86}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 1486, "prompt_ms": 323, "s": 1.99}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 1387, "prompt_ms": 320, "s": 1.89}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "identical", "k": 0, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 1368, "prompt_ms": 323, "s": 1.87}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "identical", "k": 1, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 10, "prompt_ms": 69, "s": 0.26}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "identical", "k": 2, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 10, "prompt_ms": 69, "s": 0.15}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "identical", "k": 3, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 3, "prompt_ms": 67, "s": 0.25}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "identical", "k": 4, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 11, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.2}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 11, "prompt_ms": 66, "s": 0.25}
+{"pid": "boolq/723|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "no", "prompt_eval_count": 100, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 1502, "prompt_ms": 332, "s": 2.02}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 1449, "prompt_ms": 333, "s": 1.96}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 1377, "prompt_ms": 330, "s": 1.89}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "identical", "k": 0, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 1477, "prompt_ms": 327, "s": 1.99}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "identical", "k": 1, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 10, "prompt_ms": 70, "s": 0.26}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "identical", "k": 2, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.15}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "identical", "k": 3, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 2, "prompt_ms": 66, "s": 0.24}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "identical", "k": 4, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.18}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 8, "prompt_ms": 63, "s": 0.19}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 10, "prompt_ms": 63, "s": 0.24}
+{"pid": "agnews/1092|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "World", "prompt_eval_count": 108, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 1460, "prompt_ms": 323, "s": 2.02}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 1599, "prompt_ms": 335, "s": 2.19}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 1506, "prompt_ms": 333, "s": 2.1}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "identical", "k": 0, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 1410, "prompt_ms": 318, "s": 1.96}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "identical", "k": 1, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 0, "prompt_ms": 63, "s": 0.2}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "identical", "k": 2, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 1, "prompt_ms": 62, "s": 0.19}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "identical", "k": 3, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 2, "prompt_ms": 67, "s": 0.2}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "identical", "k": 4, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 2, "prompt_ms": 61, "s": 0.19}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 1, "prompt_ms": 61, "s": 0.19}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 2, "prompt_ms": 61, "s": 0.19}
+{"pid": "agnews/510|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "Sci/Tech", "prompt_eval_count": 89, "eval_count": 3, "load_ms": 2, "prompt_ms": 60, "s": 0.19}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "unloaded", "k": 0, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 1511, "prompt_ms": 318, "s": 2.0}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "unloaded", "k": 1, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 1577, "prompt_ms": 314, "s": 2.06}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "unloaded", "k": 2, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 1602, "prompt_ms": 316, "s": 2.09}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "identical", "k": 0, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 1474, "prompt_ms": 317, "s": 1.96}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "identical", "k": 1, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 9, "prompt_ms": 70, "s": 0.25}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "identical", "k": 2, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 10, "prompt_ms": 62, "s": 0.14}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "identical", "k": 3, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 2, "prompt_ms": 62, "s": 0.23}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "identical", "k": 4, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 9, "prompt_ms": 0, "s": 0.17}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "interleaved", "k": 0, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 9, "prompt_ms": 62, "s": 0.19}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "interleaved", "k": 1, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 10, "prompt_ms": 62, "s": 0.24}
+{"pid": "boolq/1320|canonical", "set": "random", "cond": "interleaved", "k": 2, "out": "yes", "prompt_eval_count": 106, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.17}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "unloaded", "k": 0, "out": "yes", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 1480, "prompt_ms": 436, "s": 2.09}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "unloaded", "k": 1, "out": "yes", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 1488, "prompt_ms": 458, "s": 2.14}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "unloaded", "k": 2, "out": "yes", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 1405, "prompt_ms": 453, "s": 2.04}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "identical", "k": 0, "out": "yes", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 1575, "prompt_ms": 456, "s": 2.22}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "identical", "k": 1, "out": " no", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 10, "prompt_ms": 67, "s": 0.26}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "identical", "k": 2, "out": " no", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "identical", "k": 3, "out": " no", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 9, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "identical", "k": 4, "out": " no", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 9, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "interleaved", "k": 0, "out": " no", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "interleaved", "k": 1, "out": " no", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/2049|canonical", "set": "extra", "cond": "interleaved", "k": 2, "out": " no", "prompt_eval_count": 140, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "unloaded", "k": 0, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 1487, "prompt_ms": 452, "s": 2.12}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "unloaded", "k": 1, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 1581, "prompt_ms": 451, "s": 2.22}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "unloaded", "k": 2, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 1389, "prompt_ms": 449, "s": 2.02}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "identical", "k": 0, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 1480, "prompt_ms": 449, "s": 2.11}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "identical", "k": 1, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 10, "prompt_ms": 71, "s": 0.26}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "identical", "k": 2, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.26}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "identical", "k": 3, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 10, "prompt_ms": 66, "s": 0.25}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "identical", "k": 4, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 11, "prompt_ms": 67, "s": 0.26}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "interleaved", "k": 0, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 10, "prompt_ms": 67, "s": 0.26}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "interleaved", "k": 1, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 10, "prompt_ms": 65, "s": 0.25}
+{"pid": "boolq/2578|canonical", "set": "extra", "cond": "interleaved", "k": 2, "out": " yes", "prompt_eval_count": 138, "eval_count": 1, "load_ms": 12, "prompt_ms": 68, "s": 0.26}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "unloaded", "k": 0, "out": " no", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 1392, "prompt_ms": 457, "s": 2.03}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "unloaded", "k": 1, "out": " no", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 1399, "prompt_ms": 454, "s": 2.04}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "unloaded", "k": 2, "out": " no", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 1584, "prompt_ms": 455, "s": 2.22}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "identical", "k": 0, "out": " no", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 1566, "prompt_ms": 455, "s": 2.21}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "identical", "k": 1, "out": "yes", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 10, "prompt_ms": 70, "s": 0.27}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "identical", "k": 2, "out": "yes", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "identical", "k": 3, "out": "yes", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 9, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "identical", "k": 4, "out": "yes", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 9, "prompt_ms": 0, "s": 0.18}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "interleaved", "k": 0, "out": "yes", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "interleaved", "k": 1, "out": "yes", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 10, "prompt_ms": 0, "s": 0.19}
+{"pid": "boolq/3148|canonical", "set": "extra", "cond": "interleaved", "k": 2, "out": "yes", "prompt_eval_count": 141, "eval_count": 1, "load_ms": 11, "prompt_ms": 0, "s": 0.19}
