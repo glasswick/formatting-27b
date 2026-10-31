@@ -42,14 +42,16 @@ canonical margin under 1 nat are where to look.
 
 ## The identical re-run
 The identical re-run flipped 3 of 1,200 answers (0.25%), above zero for
-most of their models. A probe found why (`cache-probe/`, thresholds fixed
+most of their models. A probe found a cause (`cache-probe/`, thresholds fixed
 before any call). Ollama reuses the cached prompt on a repeat: it spends a
 median 67 ms on the prompt against 332 ms cold. `prompt_eval_count` still
 reports the full length, so the count alone hides it. On 20 random prompts, no
 answer changed in 220 calls. On 2 of the 3 flipped items, every cold call gave
 one answer and every warm call the other. **So on Ollama the control condition
 compares a cold prompt with a cached one on near-ties; it isn't run-to-run
-noise.** To measure noise there, unload between calls (`keep_alive: 0`) or log
+noise.** It doesn't explain the direction of every flip, though (corrected
+2026-10-31). On boolq/3148 the main run gave "yes" cold and "no" cached, and the
+probe the reverse, every time. See `cache-probe/RESULTS.md`. To measure noise there, unload between calls (`keep_alive: 0`) or log
 `prompt_eval_duration`. The third item flipped in the main run but not in the
 probe, and I don't know why.
 

@@ -124,5 +124,5 @@ can't settle: whether each call was evaluated fresh or from cache (I
 didn't log `prompt_eval_count`), and which single token greedy decoding
 picked, since my margins sum a label's spellings ("yes", "Yes", " yes")
 and keep only the sums, while greedy takes the one top token. The cache
-probe (cache-probe/) logs the first; keeping the raw top-20
+probe (research/ollama-cache) logs the first; keeping the raw top-20
 tokens would settle the second.

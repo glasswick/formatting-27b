@@ -30,7 +30,7 @@ table. Settings that differ go beside the numbers.
   small" holds if at least 90% of flipped items sit under 1 nat; I'll
   say it doesn't if more than 20% sit above 2 nats.
 - Caveat to report either way: this measures the cached canonical
-  re-query, and my cache probe (cache-probe/) is what says
+  re-query, and my cache probe (research/ollama-cache) is what says
   whether that matters.
 
 ## Part 3: answer or only confidence? (added ~03:05 UTC, still before any data)
